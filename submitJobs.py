@@ -94,8 +94,8 @@ eventsPerJob = int(1E7)
 outLFNDirBase = "/store/user/akalinow/Data/WW/"
 storage_element="T3_CH_CERNBOX"
 
-outputDatasetTag = "test2"
-outputFileList = ['vbstt.root', 'vbsttee.root',  'vbsttmue.root',  'vbsttmumu.root'
+outputDatasetTag = "test3"
+outputFileList = ['vbstt.root', 'vbsttee.root',  'vbsttmue.root',  'vbsttmumu.root']
 
 #List od DBS datasets to be analyzed
 datasets = {'/EGamma0/Run2023C-22Sep2023_v1-v1/NANOAOD',

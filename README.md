@@ -31,7 +31,7 @@ cd nanoAOD_Crab
 ./submitJobs.py
 ```
 
-The [submitJobs.py](submitJobs.py) script contains following control [parameters](submitJobs.py#L91-L105)
+The [submitJobs.py](submitJobs.py) script contains following control [parameters](submitJobs.py#L91-L109)
 
 * **eventsPerJob** - number of events to be generated per job. 
 * **outLFNDirBase** - Logical File Name base directory for storing the output on SE, for example */store/user/akalinow/Data/*

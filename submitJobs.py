@@ -99,7 +99,7 @@ outputFileList = ['vbstt.root', 'vbsttee.root',  'vbsttmue.root',  'vbsttmumu.ro
 
 #List od DBS datasets to be analyzed
 datasets = {'/EGamma0/Run2023C-22Sep2023_v1-v1/NANOAOD',
-            #'/EGamma1/Run2023C-22Sep2023_v1-v1/NANOAOD'
+            '/EGamma1/Run2023C-22Sep2023_v1-v1/NANOAOD'
             }
 
 runLocal = False
